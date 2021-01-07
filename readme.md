@@ -1,6 +1,15 @@
 # Advanced Python
 #### Short information
-This repository contains Python projects made during the Advanced Python course I took as a part of Mail.ru Group Machine Learning Academy 
+This repository contains Python projects made during the Advanced Python course I took as a part of Mail.ru Group Machine Learning Academy
+
+#### List of all topics
++ flask, jinja, 
++ TDD, mocking, patching 
++ design patterns, abstact factory, composition, strategy
++ command line program
++ web parsing, lxml, beautifulsoup
++ logging
++ file compression, struct library
 
 #### Overview of folders:
 + bank_asset_calculator - flask application written using TDD. It stores assets of a customer in various currencies/precious metals. And it can calculate revenue for a customer for his investement after different periods of time. Calculated revenue is in Russian roubles and currency exchange rate is retrieved online from Russia's Central Bank website. *Topics: flask, TDD*
